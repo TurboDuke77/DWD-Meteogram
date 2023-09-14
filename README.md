@@ -16,7 +16,7 @@ Coypright DWD Open Data
 https://www.dwd.de/DE/leistungen/opendata/opendata.html
 
 Highcharts and Highstock - available at https://www.highcharts.com <br>
-free only for private use! https://www.highcharts.com/forum/viewtopic.php?t=41138
+free only for private use open source projects https://www.highcharts.com/forum/viewtopic.php?t=41138
 
 
 For more information see the service description on https://www.dwd.de/DE/leistungen/opendata/neuigkeiten/opendata_mar2018_01.html
