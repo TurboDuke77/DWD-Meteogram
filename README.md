@@ -1,6 +1,6 @@
 # Meteogram für DWD MOSMIX forecast stations
 
-interaktives Meteogram zur Darstellung der DWD Vorhersage Daten, basierend auf dem Datensatz MOSMIX_L (Aktualisierung 4x täglich, ca. 115 Parameter, bis +240h)
+interaktives Meteogram zur Darstellung der DWD Vorhersage Daten, basierend auf dem Datensatz MOSMIX_L (Aktualisierung 4x täglich, ca. 115 Parameter, bis +240h also für max. 10 Tage)
 
 Installation:
 1. Upload aller Dateien und Ordner auf den eigenen Server
@@ -11,6 +11,7 @@ Aufruf der meteogram.php
 
 ![Screenshot](https://github.com/TurboDuke77/DWD-Meteogram/assets/38126777/1bc59628-7175-4d2e-87cb-6bc006895919)
 
+Erklärung der weiteren Optionen in der meteogram.php
 
 Coypright DWD Open Data
 https://www.dwd.de/DE/leistungen/opendata/opendata.html
