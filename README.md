@@ -9,6 +9,9 @@ Installation:
    
 Aufruf der meteogram.php
 
+![Screenshot](https://github.com/TurboDuke77/DWD-Meteogram/assets/38126777/1bc59628-7175-4d2e-87cb-6bc006895919)
+
+
 Coypright DWD Open Data
 https://www.dwd.de/DE/leistungen/opendata/opendata.html
 
