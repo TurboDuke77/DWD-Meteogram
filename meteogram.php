@@ -49,21 +49,20 @@ error_reporting(E_ALL);
    # Zeitbereich (max. 10 Tage = 240 Std sind möglich)
    $range = '240';
 
-   # Ordner für Download der DWD  *.kmz Dateien
-   $path = "./kmz/";
-
    # Download vom DWD Server 4x am Tag in bestimmten Zeitfenstern => true | oder Download bei jedem Aufruf => false
    $datareduce = true;
 
    # Angabe der gewünschten Zeitzone nach https://www.php.net/manual/en/timezones.php  (Schreibweise beachten!)
    $TZ = "Europe/Berlin";
    
-
 # Variablen -Ende ------------------------------------------------<
 
 
 
 #-Download KMZ Datei--------------------------------------------------------------------------------------------------->
+
+# Ordner für Download der DWD  *.kmz Dateien
+$path = "./kmz/";
 
 $new = 0;
 
