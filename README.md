@@ -1,6 +1,6 @@
 # Meteogram für DWD MOSMIX forecast stations
 
-interaktives Meteogram zur Darstellung der DWD Vorhersage Daten, basierend auf dem Datensatz MOSMIX_L (Aktuelisierung 4x täglich, ca. 115 Parameter, bis +240h)
+interaktives Meteogram zur Darstellung der DWD Vorhersage Daten, basierend auf dem Datensatz MOSMIX_L (Aktualisierung 4x täglich, ca. 115 Parameter, bis +240h)
 
 Installation:
 1. Upload aller Dateien und Ordner auf den eigenen Server
