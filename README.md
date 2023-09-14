@@ -2,9 +2,11 @@
 
 interaktives Meteogram zur Darstellung der DWD Vorhersage Daten,<br>basierend auf dem Datensatz MOSMIX_L (Aktualisierung vom DWD 4x täglich, ca. 115 Parameter, bis +240h also für max. 10 Tage)
 
+Der MOSMIX_L Datensatz mit den Wettedaten wird beim Aufruf direkt vom DWD Server geladen und gespeichert, so das bei erneutem Aufruf Datenverkehr gespart wird, nur bei neuen Vorhersagedaten erfolgt ein neuer Download.
+
 Installation:
 1. Upload aller Dateien und Ordner auf den eigenen Server
-2. editieren des Parameters $id = xxxx in der meteogram.php mit der gewünschten Station aus dem DWD Stationskatalog 
+2. editieren des Parameters $id = xxxx in der meteogram.php mit der gewünschten Station aus dem DWD Stationskatalog
  https://www.dwd.de/DE/leistungen/met_verfahren_mosmix/mosmix_stationskatalog.cfg?view=nasPublication&nn=16102
    
 Aufruf der meteogram.php
