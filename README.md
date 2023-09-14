@@ -15,7 +15,8 @@ Aufruf der meteogram.php
 Coypright DWD Open Data
 https://www.dwd.de/DE/leistungen/opendata/opendata.html
 
-Highcharts and Highstock - free only for private use! - available at https://www.highcharts.com 
+Highcharts and Highstock - available at https://www.highcharts.com
+free only for private use! https://www.highcharts.com/forum/viewtopic.php?t=41138
 
 
 For more information see the service description on https://www.dwd.de/DE/leistungen/opendata/neuigkeiten/opendata_mar2018_01.html
