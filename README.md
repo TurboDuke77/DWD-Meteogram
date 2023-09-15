@@ -15,8 +15,11 @@ Aufruf der meteogram.php
 
 Erklärung der weiteren Optionen in der meteogram.php
 
-Coypright DWD Open Data
+Coypright Deutscher Wetterdienst DWD Open Data
 https://www.dwd.de/DE/leistungen/opendata/opendata.html
+
+DWD Mosmix Verfahren
+https://www.dwd.de/DE/leistungen/met_verfahren_mosmix/met_verfahren_mosmix.html
 
 Highcharts and Highstock - available at https://www.highcharts.com <br>
 free only for private use open source projects https://www.highcharts.com/forum/viewtopic.php?t=41138
