@@ -2,7 +2,7 @@
 
 interaktives Meteogram zur Darstellung der DWD Vorhersage Daten,<br>basierend auf dem Datensatz MOSMIX_L (Aktualisierung vom DWD 4x täglich, ca. 115 Parameter, bis +240h also für max. 10 Tage)
 
-Der MOSMIX_L Datensatz mit den Wettedaten wird beim Aufruf direkt vom DWD Server geladen und gespeichert, so das bei erneutem Aufruf Datenverkehr gespart wird, nur bei neuen Vorhersagedaten erfolgt ein neuer Download.
+Der MOSMIX_L Datensatz mit den Wetterdaten wird beim Aufruf direkt vom DWD Server geladen und gespeichert, so das bei erneutem Aufruf Datenverkehr gespart wird, nur bei neuen Vorhersagedaten erfolgt ein neuer Download.
 
 Installation:
 1. Upload aller Dateien und Ordner auf den eigenen Server
