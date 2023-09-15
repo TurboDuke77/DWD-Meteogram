@@ -6,7 +6,7 @@ Der MOSMIX_L Datensatz mit den Wettedaten wird beim Aufruf direkt vom DWD Server
 
 Installation:
 1. Upload aller Dateien und Ordner auf den eigenen Server
-2. editieren des Parameters $id = xxxx in der meteogram.php mit der gewünschten Station aus dem DWD Stationskatalog
+2. editieren des Parameters $id = xxxx in der meteogram.php mit der gewünschten Station aus dem DWD Stationskatalog (6000 Stationen in Germany und Europe)<br>
  https://www.dwd.de/DE/leistungen/met_verfahren_mosmix/mosmix_stationskatalog.cfg?view=nasPublication&nn=16102
    
 Aufruf der meteogram.php
