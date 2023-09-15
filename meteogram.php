@@ -438,7 +438,7 @@ var mosmix_url = 'data/mosmix.php';
           credits: {
               //text: 'herausgegeben am Quelle: Deutscher Wetterdienst (' + this.dwd.productId + ')',
               text: '<?=$dwdquelle?>',  
-              href: 'https://www.dwd.de/opendata',
+              href: 'https://www.dwd.de/DE/leistungen/opendata/opendata.html',
               position: {
                   x: -40,
                   y: -2
