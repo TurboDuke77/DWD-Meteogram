@@ -15,6 +15,8 @@ Aufruf der meteogram.php
 
 Erklärung der weiteren Optionen in der meteogram.php
 
+
+
 Coypright Deutscher Wetterdienst DWD Open Data
 https://www.dwd.de/DE/leistungen/opendata/opendata.html
 
